@@ -6,7 +6,7 @@ import lombok.Data;
 
 import java.time.LocalDate; 
 import java.time.LocalDateTime;
-
+ 
 /**
  * Display DTO for viewing Tasks without exposing the entity structure.
  */
